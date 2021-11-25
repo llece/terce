@@ -1,0 +1,1051 @@
+pais,tema,tema_descripcion,materia,grado,parametro,porcentaje
+ar,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,7 o más semestres,0.259
+ar,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,Menos de 7 semestres,0.741
+ar,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,7 o más semestres,0.297
+ar,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,Menos de 7 semestres,0.703
+ar,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,7 o más semestres,0.259
+ar,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,Menos de 7 semestres,0.741
+ar,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,7 o más semestres,0.275
+ar,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,Menos de 7 semestres,0.725
+ar,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,7 o más semestres,0.252
+ar,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,Menos de 7 semestres,0.748
+br,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,7 o más semestres,0.658
+br,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,Menos de 7 semestres,0.342
+br,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,7 o más semestres,0.447
+br,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,Menos de 7 semestres,0.553
+br,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,7 o más semestres,0.699
+br,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,Menos de 7 semestres,0.301
+br,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,7 o más semestres,0.447
+br,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,Menos de 7 semestres,0.553
+br,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,7 o más semestres,0.573
+br,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,Menos de 7 semestres,0.427
+cl,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,7 o más semestres,0.73
+cl,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,Menos de 7 semestres,0.27
+cl,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,7 o más semestres,0.718
+cl,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,Menos de 7 semestres,0.282
+cl,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,7 o más semestres,0.765
+cl,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,Menos de 7 semestres,0.235
+cl,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,7 o más semestres,0.669
+cl,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,Menos de 7 semestres,0.331
+cl,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,7 o más semestres,0.763
+cl,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,Menos de 7 semestres,0.237
+co,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,7 o más semestres,0.648
+co,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,Menos de 7 semestres,0.352
+co,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,7 o más semestres,0.65
+co,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,Menos de 7 semestres,0.35
+co,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,7 o más semestres,0.727
+co,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,Menos de 7 semestres,0.273
+co,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,7 o más semestres,0.612
+co,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,Menos de 7 semestres,0.388
+co,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,7 o más semestres,0.636
+co,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,Menos de 7 semestres,0.364
+cr,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,7 o más semestres,0.797
+cr,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,Menos de 7 semestres,0.203
+cr,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,7 o más semestres,0.777
+cr,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,Menos de 7 semestres,0.223
+cr,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,7 o más semestres,0.799
+cr,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,Menos de 7 semestres,0.201
+cr,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,7 o más semestres,0.771
+cr,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,Menos de 7 semestres,0.229
+cr,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,7 o más semestres,0.805
+cr,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,Menos de 7 semestres,0.195
+ec,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,7 o más semestres,0.431
+ec,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,Menos de 7 semestres,0.569
+ec,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,7 o más semestres,0.25
+ec,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,Menos de 7 semestres,0.75
+ec,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,7 o más semestres,0.38
+ec,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,Menos de 7 semestres,0.62
+ec,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,7 o más semestres,0.262
+ec,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,Menos de 7 semestres,0.738
+ec,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,7 o más semestres,0.419
+ec,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,Menos de 7 semestres,0.581
+gt,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,7 o más semestres,0.066
+gt,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,Menos de 7 semestres,0.934
+gt,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,7 o más semestres,0.022
+gt,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,Menos de 7 semestres,0.978
+gt,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,7 o más semestres,0.058
+gt,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,Menos de 7 semestres,0.942
+gt,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,7 o más semestres,0.022
+gt,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,Menos de 7 semestres,0.978
+gt,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,7 o más semestres,0.049
+gt,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,Menos de 7 semestres,0.951
+hn,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,7 o más semestres,0.419
+hn,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,Menos de 7 semestres,0.581
+hn,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,7 o más semestres,0.326
+hn,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,Menos de 7 semestres,0.674
+hn,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,7 o más semestres,0.435
+hn,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,Menos de 7 semestres,0.565
+hn,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,7 o más semestres,0.317
+hn,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,Menos de 7 semestres,0.683
+hn,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,7 o más semestres,0.413
+hn,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,Menos de 7 semestres,0.587
+mx,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,7 o más semestres,0.729
+mx,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,Menos de 7 semestres,0.271
+mx,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,7 o más semestres,0.646
+mx,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,Menos de 7 semestres,0.354
+mx,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,7 o más semestres,0.729
+mx,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,Menos de 7 semestres,0.271
+mx,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,7 o más semestres,0.646
+mx,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,Menos de 7 semestres,0.354
+mx,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,7 o más semestres,0.729
+mx,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,Menos de 7 semestres,0.271
+ni,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,7 o más semestres,0.189
+ni,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,Menos de 7 semestres,0.811
+ni,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,7 o más semestres,0.103
+ni,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,Menos de 7 semestres,0.897
+ni,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,7 o más semestres,0.191
+ni,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,Menos de 7 semestres,0.809
+ni,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,7 o más semestres,0.103
+ni,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,Menos de 7 semestres,0.897
+ni,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,7 o más semestres,0.192
+ni,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,Menos de 7 semestres,0.808
+pa,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,7 o más semestres,0.574
+pa,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,Menos de 7 semestres,0.426
+pa,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,7 o más semestres,0.544
+pa,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,Menos de 7 semestres,0.456
+pa,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,7 o más semestres,0.603
+pa,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,Menos de 7 semestres,0.397
+pa,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,7 o más semestres,0.526
+pa,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,Menos de 7 semestres,0.474
+pa,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,7 o más semestres,0.56
+pa,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,Menos de 7 semestres,0.44
+py,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,7 o más semestres,0.203
+py,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,Menos de 7 semestres,0.797
+py,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,7 o más semestres,0.317
+py,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,Menos de 7 semestres,0.683
+py,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,7 o más semestres,0.211
+py,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,Menos de 7 semestres,0.789
+py,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,7 o más semestres,0.308
+py,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,Menos de 7 semestres,0.692
+py,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,7 o más semestres,0.205
+py,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,Menos de 7 semestres,0.795
+pe,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,7 o más semestres,0.663
+pe,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,Menos de 7 semestres,0.337
+pe,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,7 o más semestres,0.638
+pe,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,Menos de 7 semestres,0.362
+pe,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,7 o más semestres,0.679
+pe,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,Menos de 7 semestres,0.321
+pe,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,7 o más semestres,0.628
+pe,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,Menos de 7 semestres,0.372
+pe,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,7 o más semestres,0.661
+pe,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,Menos de 7 semestres,0.339
+do,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,7 o más semestres,0.611
+do,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,Menos de 7 semestres,0.389
+do,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,7 o más semestres,0.66
+do,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,Menos de 7 semestres,0.34
+do,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,7 o más semestres,0.6
+do,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,Menos de 7 semestres,0.4
+do,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,7 o más semestres,0.67
+do,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,Menos de 7 semestres,0.33
+do,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,7 o más semestres,0.639
+do,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,Menos de 7 semestres,0.361
+uy,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,7 o más semestres,0.535
+uy,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Ciencias,6,Menos de 7 semestres,0.465
+uy,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,7 o más semestres,0.482
+uy,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,3,Menos de 7 semestres,0.518
+uy,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,7 o más semestres,0.535
+uy,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Lectura,6,Menos de 7 semestres,0.465
+uy,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,7 o más semestres,0.482
+uy,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,3,Menos de 7 semestres,0.518
+uy,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,7 o más semestres,0.535
+uy,Duración de la formación del docente,Frecuencia de duración de la formación inicial del docente por asignatura,Matemáticas,6,Menos de 7 semestres,0.465
+ar,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,No,0.653
+ar,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,Sí,0.347
+ar,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,No,0.346
+ar,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,Sí,0.654
+ar,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,No,0.457
+ar,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,Sí,0.543
+ar,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,No,0.542
+ar,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,Sí,0.458
+ar,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,No,0.582
+ar,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,Sí,0.418
+br,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,No,0.715
+br,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,Sí,0.285
+br,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,No,0.85
+br,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,Sí,0.15
+br,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,No,0.708
+br,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,Sí,0.292
+br,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,No,0.938
+br,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,Sí,0.062
+br,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,No,0.681
+br,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,Sí,0.319
+cl,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,No,0.734
+cl,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,Sí,0.266
+cl,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,No,0.587
+cl,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,Sí,0.413
+cl,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,No,0.691
+cl,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,Sí,0.309
+cl,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,No,0.689
+cl,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,Sí,0.311
+cl,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,No,0.522
+cl,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,Sí,0.478
+co,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,No,0.838
+co,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,Sí,0.162
+co,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,No,0.914
+co,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,Sí,0.086
+co,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,No,0.835
+co,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,Sí,0.165
+co,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,No,0.955
+co,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,Sí,0.045
+co,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,No,0.823
+co,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,Sí,0.177
+cr,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,No,0.862
+cr,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,Sí,0.138
+cr,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,No,0.751
+cr,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,Sí,0.249
+cr,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,No,0.782
+cr,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,Sí,0.218
+cr,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,No,0.693
+cr,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,Sí,0.307
+cr,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,No,0.607
+cr,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,Sí,0.393
+ec,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,No,0.805
+ec,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,Sí,0.195
+ec,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,No,0.78
+ec,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,Sí,0.22
+ec,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,No,0.734
+ec,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,Sí,0.266
+ec,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,No,0.729
+ec,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,Sí,0.271
+ec,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,No,0.674
+ec,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,Sí,0.326
+gt,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,No,0.949
+gt,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,Sí,0.051
+gt,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,No,0.927
+gt,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,Sí,0.073
+gt,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,No,0.919
+gt,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,Sí,0.081
+gt,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,No,0.881
+gt,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,Sí,0.119
+gt,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,No,0.846
+gt,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,Sí,0.154
+hn,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,No,0.916
+hn,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,Sí,0.084
+hn,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,No,0.709
+hn,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,Sí,0.291
+hn,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,No,0.663
+hn,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,Sí,0.337
+hn,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,No,0.73
+hn,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,Sí,0.27
+hn,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,No,0.704
+hn,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,Sí,0.296
+mx,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,No,0.805
+mx,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,Sí,0.195
+mx,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,No,0.863
+mx,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,Sí,0.137
+mx,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,No,0.76
+mx,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,Sí,0.24
+mx,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,No,0.912
+mx,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,Sí,0.088
+mx,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,No,0.838
+mx,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,Sí,0.162
+ni,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,No,0.981
+ni,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,Sí,0.019
+ni,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,No,0.891
+ni,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,Sí,0.109
+ni,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,No,0.944
+ni,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,Sí,0.056
+ni,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,No,0.934
+ni,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,Sí,0.066
+ni,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,No,0.944
+ni,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,Sí,0.056
+pa,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,No,0.835
+pa,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,Sí,0.165
+pa,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,No,0.836
+pa,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,Sí,0.164
+pa,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,No,0.624
+pa,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,Sí,0.376
+pa,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,No,0.791
+pa,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,Sí,0.209
+pa,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,No,0.663
+pa,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,Sí,0.337
+py,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,No,0.862
+py,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,Sí,0.138
+py,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,No,0.573
+py,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,Sí,0.427
+py,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,No,0.672
+py,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,Sí,0.328
+py,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,No,0.76
+py,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,Sí,0.24
+py,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,No,0.761
+py,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,Sí,0.239
+pe,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,No,0.798
+pe,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,Sí,0.202
+pe,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,No,0.383
+pe,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,Sí,0.617
+pe,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,No,0.381
+pe,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,Sí,0.619
+pe,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,No,0.441
+pe,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,Sí,0.559
+pe,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,No,0.434
+pe,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,Sí,0.566
+do,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,No,0.61
+do,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,Sí,0.39
+do,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,No,0.601
+do,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,Sí,0.399
+do,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,No,0.421
+do,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,Sí,0.579
+do,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,No,0.646
+do,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,Sí,0.354
+do,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,No,0.546
+do,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,Sí,0.454
+uy,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,No,0.709
+uy,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Ciencias,6,Sí,0.291
+uy,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,No,0.745
+uy,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,3,Sí,0.255
+uy,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,No,0.734
+uy,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Lectura,6,Sí,0.266
+uy,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,No,0.812
+uy,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,3,Sí,0.188
+uy,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,No,0.724
+uy,Formación continua en la disciplina que enseña,Frecuencia de docente que recibieron formación continua en la disciplina que enseña en los últimos dos años por asignatura,Matemáticas,6,Sí,0.276
+ar,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,No,0.078
+ar,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,Sí,0.922
+ar,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,No,0.105
+ar,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,Sí,0.895
+ar,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,No,0.05
+ar,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,Sí,0.95
+ar,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,No,0.122
+ar,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,Sí,0.878
+ar,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,No,0.058
+ar,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,Sí,0.942
+br,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,No,0.276
+br,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,Sí,0.724
+br,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,No,0.517
+br,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,Sí,0.483
+br,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,No,0.229
+br,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,Sí,0.771
+br,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,No,0.517
+br,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,Sí,0.483
+br,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,No,0.298
+br,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,Sí,0.702
+cl,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,No,0.093
+cl,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,Sí,0.907
+cl,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,No,0.102
+cl,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,Sí,0.898
+cl,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,No,0.061
+cl,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,Sí,0.939
+cl,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,No,0.119
+cl,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,Sí,0.881
+cl,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,No,0.072
+cl,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,Sí,0.928
+co,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,No,0.423
+co,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,Sí,0.577
+co,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,No,0.72
+co,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,Sí,0.28
+co,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,No,0.493
+co,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,Sí,0.507
+co,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,No,0.76
+co,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,Sí,0.24
+co,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,No,0.497
+co,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,Sí,0.503
+cr,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,No,0.325
+cr,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,Sí,0.675
+cr,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,No,0.269
+cr,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,Sí,0.731
+cr,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,No,0.31
+cr,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,Sí,0.69
+cr,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,No,0.274
+cr,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,Sí,0.726
+cr,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,No,0.315
+cr,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,Sí,0.685
+ec,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,No,0.531
+ec,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,Sí,0.469
+ec,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,No,0.661
+ec,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,Sí,0.339
+ec,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,No,0.51
+ec,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,Sí,0.49
+ec,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,No,0.626
+ec,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,Sí,0.374
+ec,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,No,0.448
+ec,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,Sí,0.552
+gt,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,No,0.594
+gt,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,Sí,0.406
+gt,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,No,0.822
+gt,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,Sí,0.178
+gt,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,No,0.585
+gt,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,Sí,0.415
+gt,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,No,0.823
+gt,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,Sí,0.177
+gt,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,No,0.601
+gt,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,Sí,0.399
+hn,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,No,0.722
+hn,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,Sí,0.278
+hn,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,No,0.663
+hn,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,Sí,0.337
+hn,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,No,0.708
+hn,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,Sí,0.292
+hn,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,No,0.674
+hn,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,Sí,0.326
+hn,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,No,0.725
+hn,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,Sí,0.275
+mx,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,No,0.276
+mx,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,Sí,0.724
+mx,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,No,0.387
+mx,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,Sí,0.613
+mx,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,No,0.276
+mx,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,Sí,0.724
+mx,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,No,0.387
+mx,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,Sí,0.613
+mx,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,No,0.276
+mx,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,Sí,0.724
+ni,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,No,0.694
+ni,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,Sí,0.306
+ni,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,No,0.839
+ni,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,Sí,0.161
+ni,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,No,0.695
+ni,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,Sí,0.305
+ni,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,No,0.839
+ni,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,Sí,0.161
+ni,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,No,0.696
+ni,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,Sí,0.304
+pa,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,No,0.267
+pa,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,Sí,0.733
+pa,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,No,0.314
+pa,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,Sí,0.686
+pa,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,No,0.255
+pa,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,Sí,0.745
+pa,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,No,0.315
+pa,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,Sí,0.685
+pa,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,No,0.287
+pa,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,Sí,0.713
+py,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,No,0.276
+py,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,Sí,0.724
+py,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,No,0.374
+py,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,Sí,0.626
+py,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,No,0.282
+py,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,Sí,0.718
+py,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,No,0.376
+py,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,Sí,0.624
+py,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,No,0.273
+py,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,Sí,0.727
+pe,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,No,0.496
+pe,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,Sí,0.504
+pe,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,No,0.447
+pe,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,Sí,0.553
+pe,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,No,0.482
+pe,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,Sí,0.518
+pe,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,No,0.457
+pe,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,Sí,0.543
+pe,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,No,0.502
+pe,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,Sí,0.498
+do,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,No,0.407
+do,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,Sí,0.593
+do,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,No,0.387
+do,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,Sí,0.613
+do,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,No,0.355
+do,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,Sí,0.645
+do,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,No,0.377
+do,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,Sí,0.623
+do,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,No,0.388
+do,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,Sí,0.612
+uy,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,No,0.111
+uy,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Ciencias,6,Sí,0.889
+uy,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,No,0.041
+uy,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,3,Sí,0.959
+uy,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,No,0.111
+uy,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Lectura,6,Sí,0.889
+uy,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,No,0.041
+uy,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,3,Sí,0.959
+uy,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,No,0.111
+uy,Formación docente en modalidad presencial,Frecuencia de formación docente en modalidad presencial por asignatura,Matemáticas,6,Sí,0.889
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Doctorado,0
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.779
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Inferior,0.032
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Superior,0.002
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Grado en educación terciaria,0.182
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,"Maestría, especialización",0.005
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Doctorado,0
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.82
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Inferior,0.022
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Superior,0.019
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Grado en educación terciaria,0.14
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,"Maestría, especialización",0
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Doctorado,0
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.781
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Inferior,0.012
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Superior,0.006
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Grado en educación terciaria,0.198
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,"Maestría, especialización",0.003
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Doctorado,0
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.859
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Inferior,0.022
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Superior,0.012
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Grado en educación terciaria,0.108
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,"Maestría, especialización",0
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Doctorado,0
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.813
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Inferior,0.018
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Superior,0.005
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Grado en educación terciaria,0.159
+ar,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,"Maestría, especialización",0.005
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Doctorado,0
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.838
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Inferior,0
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Superior,0.072
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Grado en educación terciaria,0.085
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,"Maestría, especialización",0.004
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Doctorado,0
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.054
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Inferior,0
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Superior,0.14
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Grado en educación terciaria,0.798
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,"Maestría, especialización",0.008
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Doctorado,0
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.015
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Inferior,0
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Superior,0.047
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Grado en educación terciaria,0.895
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,"Maestría, especialización",0.043
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Doctorado,0
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.054
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Inferior,0
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Superior,0.14
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Grado en educación terciaria,0.798
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,"Maestría, especialización",0.008
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Doctorado,0
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.036
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Inferior,0
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Superior,0.084
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Grado en educación terciaria,0.866
+br,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,"Maestría, especialización",0.014
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Doctorado,0
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.032
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Inferior,0
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Superior,0.006
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Grado en educación terciaria,0.946
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,"Maestría, especialización",0.016
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Doctorado,0
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.049
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Inferior,0
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Superior,0.004
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Grado en educación terciaria,0.853
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,"Maestría, especialización",0.095
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Doctorado,0
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.048
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Inferior,0
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Superior,0
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Grado en educación terciaria,0.895
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,"Maestría, especialización",0.057
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Doctorado,0
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.032
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Inferior,0
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Superior,0.004
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Grado en educación terciaria,0.888
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,"Maestría, especialización",0.077
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Doctorado,0
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.031
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Inferior,0
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Superior,0.009
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Grado en educación terciaria,0.883
+cl,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,"Maestría, especialización",0.077
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Doctorado,0
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.013
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Inferior,0
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Superior,0.022
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Grado en educación terciaria,0.863
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,"Maestría, especialización",0.102
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Doctorado,0
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.097
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Inferior,0.004
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Superior,0.023
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Grado en educación terciaria,0.858
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,"Maestría, especialización",0.018
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Doctorado,0
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.882
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Inferior,0.013
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Superior,0.01
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Grado en educación terciaria,0.093
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,"Maestría, especialización",0.001
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Doctorado,0
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.098
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Inferior,0.004
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Superior,0.027
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Grado en educación terciaria,0.857
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,"Maestría, especialización",0.014
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Doctorado,0
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.04
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Inferior,0
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Superior,0.012
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Grado en educación terciaria,0.909
+co,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,"Maestría, especialización",0.04
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Doctorado,0
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.55
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Inferior,0.004
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Superior,0.141
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Grado en educación terciaria,0.292
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,"Maestría, especialización",0.012
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Doctorado,0
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.563
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Inferior,0.015
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Superior,0.201
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Grado en educación terciaria,0.221
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,"Maestría, especialización",0
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Doctorado,0
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.552
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Inferior,0.004
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Superior,0.156
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Grado en educación terciaria,0.276
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,"Maestría, especialización",0.011
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Doctorado,0
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.194
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Inferior,0.001
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Superior,0.015
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Grado en educación terciaria,0.567
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,"Maestría, especialización",0.223
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Doctorado,0
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.554
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Inferior,0.004
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Superior,0.141
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Grado en educación terciaria,0.288
+cr,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,"Maestría, especialización",0.012
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Doctorado,0.005
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.145
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Inferior,0.026
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Superior,0.073
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Grado en educación terciaria,0.706
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,"Maestría, especialización",0.046
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Doctorado,0
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.194
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Inferior,0.139
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Superior,0.11
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Grado en educación terciaria,0.522
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,"Maestría, especialización",0.035
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Doctorado,0.005
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.141
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Inferior,0.046
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Superior,0.062
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Grado en educación terciaria,0.698
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,"Maestría, especialización",0.048
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Doctorado,0
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.168
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Inferior,0.124
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Superior,0.095
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Grado en educación terciaria,0.573
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,"Maestría, especialización",0.04
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Doctorado,0.005
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.141
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Inferior,0.029
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Superior,0.071
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Grado en educación terciaria,0.719
+ec,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,"Maestría, especialización",0.036
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Doctorado,0
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.246
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Inferior,0.218
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Superior,0.358
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Grado en educación terciaria,0.173
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,"Maestría, especialización",0.004
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Doctorado,0
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.183
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Inferior,0.335
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Superior,0.442
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Grado en educación terciaria,0.041
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,"Maestría, especialización",0
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Doctorado,0
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.255
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Inferior,0.21
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Superior,0.36
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Grado en educación terciaria,0.171
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,"Maestría, especialización",0.004
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Doctorado,0
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.183
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Inferior,0.335
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Superior,0.442
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Grado en educación terciaria,0.041
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,"Maestría, especialización",0
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Doctorado,0
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.254
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Inferior,0.213
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Superior,0.37
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Grado en educación terciaria,0.159
+gt,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,"Maestría, especialización",0.004
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Doctorado,0
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.066
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Inferior,0.126
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Superior,0.195
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Grado en educación terciaria,0.612
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,"Maestría, especialización",0.001
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Doctorado,0
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.129
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Inferior,0.17
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Superior,0.19
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Grado en educación terciaria,0.51
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,"Maestría, especialización",0.001
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Doctorado,0
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.06
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Inferior,0.125
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Superior,0.193
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Grado en educación terciaria,0.621
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,"Maestría, especialización",0
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Doctorado,0
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.132
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Inferior,0.173
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Superior,0.195
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Grado en educación terciaria,0.499
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,"Maestría, especialización",0.001
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Doctorado,0
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.064
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Inferior,0.129
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Superior,0.199
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Grado en educación terciaria,0.603
+hn,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,"Maestría, especialización",0.005
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Doctorado,0.025
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.018
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Inferior,0.105
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Superior,0.017
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Grado en educación terciaria,0.76
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,"Maestría, especialización",0.074
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Doctorado,0
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.021
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Inferior,0.105
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Superior,0.058
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Grado en educación terciaria,0.717
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,"Maestría, especialización",0.098
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Doctorado,0.025
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.018
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Inferior,0.105
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Superior,0.017
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Grado en educación terciaria,0.76
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,"Maestría, especialización",0.074
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Doctorado,0
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.021
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Inferior,0.105
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Superior,0.058
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Grado en educación terciaria,0.717
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,"Maestría, especialización",0.098
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Doctorado,0.025
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.018
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Inferior,0.105
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Superior,0.017
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Grado en educación terciaria,0.76
+mx,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,"Maestría, especialización",0.074
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Doctorado,0
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.195
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Inferior,0.272
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Superior,0.217
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Grado en educación terciaria,0.241
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,"Maestría, especialización",0.075
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Doctorado,0
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.236
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Inferior,0.252
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Superior,0.345
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Grado en educación terciaria,0.112
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,"Maestría, especialización",0.054
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Doctorado,0
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.185
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Inferior,0.276
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Superior,0.219
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Grado en educación terciaria,0.245
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,"Maestría, especialización",0.075
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Doctorado,0
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.236
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Inferior,0.252
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Superior,0.342
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Grado en educación terciaria,0.115
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,"Maestría, especialización",0.054
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Doctorado,0
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.195
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Inferior,0.275
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Superior,0.217
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Grado en educación terciaria,0.239
+ni,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,"Maestría, especialización",0.075
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Doctorado,0
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.103
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Inferior,0.031
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Superior,0.059
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Grado en educación terciaria,0.738
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,"Maestría, especialización",0.07
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Doctorado,0
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.114
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Inferior,0.065
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Superior,0.092
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Grado en educación terciaria,0.677
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,"Maestría, especialización",0.052
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Doctorado,0
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.106
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Inferior,0.03
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Superior,0.058
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Grado en educación terciaria,0.725
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,"Maestría, especialización",0.08
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Doctorado,0
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.132
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Inferior,0.064
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Superior,0.092
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Grado en educación terciaria,0.662
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,"Maestría, especialización",0.051
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Doctorado,0
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.103
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Inferior,0.035
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Superior,0.058
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Grado en educación terciaria,0.732
+pa,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,"Maestría, especialización",0.071
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Doctorado,0
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.759
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Inferior,0.013
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Superior,0.016
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Grado en educación terciaria,0.176
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,"Maestría, especialización",0.036
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Doctorado,0
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.687
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Inferior,0.03
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Superior,0.006
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Grado en educación terciaria,0.214
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,"Maestría, especialización",0.064
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Doctorado,0
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.762
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Inferior,0.013
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Superior,0.015
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Grado en educación terciaria,0.173
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,"Maestría, especialización",0.036
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Doctorado,0
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.695
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Inferior,0.03
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Superior,0.006
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Grado en educación terciaria,0.213
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,"Maestría, especialización",0.055
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Doctorado,0
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.759
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Inferior,0.013
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Superior,0.016
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Grado en educación terciaria,0.176
+py,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,"Maestría, especialización",0.036
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Doctorado,0.002
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.407
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Inferior,0.109
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Superior,0.008
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Grado en educación terciaria,0.298
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,"Maestría, especialización",0.176
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Doctorado,0.01
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.44
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Inferior,0.081
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Superior,0.005
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Grado en educación terciaria,0.302
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,"Maestría, especialización",0.161
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Doctorado,0.002
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.404
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Inferior,0.106
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Superior,0.001
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Grado en educación terciaria,0.309
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,"Maestría, especialización",0.178
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Doctorado,0.01
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.434
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Inferior,0.084
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Superior,0.005
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Grado en educación terciaria,0.307
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,"Maestría, especialización",0.16
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Doctorado,0.002
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.383
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Inferior,0.099
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Superior,0.008
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Grado en educación terciaria,0.337
+pe,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,"Maestría, especialización",0.17
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Doctorado,0
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.104
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Inferior,0.046
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Superior,0.089
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Grado en educación terciaria,0.72
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,"Maestría, especialización",0.04
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Doctorado,0
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.132
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Inferior,0.046
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Superior,0.083
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Grado en educación terciaria,0.71
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,"Maestría, especialización",0.028
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Doctorado,0
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.107
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Inferior,0.009
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Superior,0.083
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Grado en educación terciaria,0.761
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,"Maestría, especialización",0.04
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Doctorado,0
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.122
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Inferior,0.046
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Superior,0.083
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Grado en educación terciaria,0.72
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,"Maestría, especialización",0.028
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Doctorado,0
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.115
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Inferior,0.05
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Superior,0.087
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Grado en educación terciaria,0.713
+do,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,"Maestría, especialización",0.036
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Doctorado,0
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.846
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Inferior,0.104
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Educación Secundaria Superior,0
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,Grado en educación terciaria,0.021
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Ciencias,6,"Maestría, especialización",0.029
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Doctorado,0
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.942
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Inferior,0.023
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Educación Secundaria Superior,0
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,Grado en educación terciaria,0.012
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,3,"Maestría, especialización",0.024
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Doctorado,0
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.846
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Inferior,0.104
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Educación Secundaria Superior,0
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,Grado en educación terciaria,0.021
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Lectura,6,"Maestría, especialización",0.029
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Doctorado,0
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.942
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Inferior,0.023
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Educación Secundaria Superior,0
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,Grado en educación terciaria,0.012
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,3,"Maestría, especialización",0.024
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Doctorado,0
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Postsecundaria no Terciaria o Educación Terciaria de Ciclo Corto,0.846
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Inferior,0.104
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Educación Secundaria Superior,0
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,Grado en educación terciaria,0.021
+uy,Nivel educacional del docente,Frecuencia del nivel educacional más alto alcanzado por el docente por asignatura,Matemáticas,6,"Maestría, especialización",0.029
+ar,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,No,0.048
+ar,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,Sí,0.952
+ar,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,No,0.054
+ar,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,Sí,0.946
+ar,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,No,0.031
+ar,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,Sí,0.969
+ar,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,No,0.045
+ar,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,Sí,0.955
+ar,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,No,0.035
+ar,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,Sí,0.965
+br,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,No,0.145
+br,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,Sí,0.855
+br,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,No,0.162
+br,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,Sí,0.838
+br,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,No,0.087
+br,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,Sí,0.913
+br,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,No,0.162
+br,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,Sí,0.838
+br,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,No,0.173
+br,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,Sí,0.827
+cl,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,No,0.007
+cl,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,Sí,0.993
+cl,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,No,0.006
+cl,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,Sí,0.994
+cl,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,No,0
+cl,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,Sí,1
+cl,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,No,0.007
+cl,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,Sí,0.993
+cl,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,No,0.012
+cl,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,Sí,0.988
+co,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,No,0.202
+co,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,Sí,0.798
+co,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,No,0.05
+co,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,Sí,0.95
+co,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,No,0.049
+co,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,Sí,0.951
+co,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,No,0.06
+co,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,Sí,0.94
+co,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,No,0.212
+co,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,Sí,0.788
+cr,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,No,0.024
+cr,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,Sí,0.976
+cr,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,No,0.021
+cr,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,Sí,0.979
+cr,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,No,0.017
+cr,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,Sí,0.983
+cr,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,No,0.031
+cr,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,Sí,0.969
+cr,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,No,0.022
+cr,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,Sí,0.978
+ec,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,No,0.207
+ec,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,Sí,0.793
+ec,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,No,0.444
+ec,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,Sí,0.556
+ec,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,No,0.206
+ec,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,Sí,0.794
+ec,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,No,0.36
+ec,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,Sí,0.64
+ec,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,No,0.202
+ec,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,Sí,0.798
+gt,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,No,0.589
+gt,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,Sí,0.411
+gt,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,No,0.787
+gt,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,Sí,0.213
+gt,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,No,0.582
+gt,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,Sí,0.418
+gt,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,No,0.787
+gt,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,Sí,0.213
+gt,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,No,0.596
+gt,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,Sí,0.404
+hn,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,No,0.376
+hn,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,Sí,0.624
+hn,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,No,0.397
+hn,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,Sí,0.603
+hn,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,No,0.358
+hn,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,Sí,0.642
+hn,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,No,0.414
+hn,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,Sí,0.586
+hn,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,No,0.383
+hn,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,Sí,0.617
+mx,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,No,0.187
+mx,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,Sí,0.813
+mx,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,No,0.259
+mx,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,Sí,0.741
+mx,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,No,0.187
+mx,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,Sí,0.813
+mx,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,No,0.259
+mx,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,Sí,0.741
+mx,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,No,0.187
+mx,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,Sí,0.813
+ni,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,No,0.518
+ni,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,Sí,0.482
+ni,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,No,0.653
+ni,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,Sí,0.347
+ni,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,No,0.525
+ni,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,Sí,0.475
+ni,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,No,0.653
+ni,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,Sí,0.347
+ni,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,No,0.52
+ni,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,Sí,0.48
+pa,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,No,0.158
+pa,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,Sí,0.842
+pa,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,No,0.221
+pa,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,Sí,0.779
+pa,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,No,0.138
+pa,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,Sí,0.862
+pa,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,No,0.222
+pa,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,Sí,0.778
+pa,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,No,0.176
+pa,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,Sí,0.824
+py,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,No,0.045
+py,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,Sí,0.955
+py,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,No,0.04
+py,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,Sí,0.96
+py,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,No,0.044
+py,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,Sí,0.956
+py,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,No,0.04
+py,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,Sí,0.96
+py,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,No,0.045
+py,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,Sí,0.955
+pe,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,No,0.185
+pe,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,Sí,0.815
+pe,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,No,0.162
+pe,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,Sí,0.838
+pe,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,No,0.177
+pe,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,Sí,0.823
+pe,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,No,0.172
+pe,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,Sí,0.828
+pe,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,No,0.192
+pe,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,Sí,0.808
+do,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,No,0.28
+do,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,Sí,0.72
+do,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,No,0.255
+do,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,Sí,0.745
+do,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,No,0.207
+do,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,Sí,0.793
+do,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,No,0.245
+do,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,Sí,0.755
+do,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,No,0.255
+do,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,Sí,0.745
+uy,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,No,0.104
+uy,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Ciencias,6,Sí,0.896
+uy,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,No,0.041
+uy,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,3,Sí,0.959
+uy,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,No,0.104
+uy,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Lectura,6,Sí,0.896
+uy,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,No,0.041
+uy,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,3,Sí,0.959
+uy,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,No,0.104
+uy,Título de profesor,Frecuencia de docentes que poseen el título de profesor por asignatura,Matemáticas,6,Sí,0.896
