@@ -2,7 +2,7 @@
 
 ### TERCE es el Tercer Estudio Regional Comparativo y Explicativo, realizado en 2013 bajo la coordinación del Laboratorio Latinoamericano de Evaluación de la Calidad de la Educación (LLECE), el cual forma parte de la Oficina Regional de Educación para América Latina y el Caribe (OREALC/UNESCO Santiago). 
 
-Los archivos CSV disponibles en esta carpeta corresponden a los resultados por país de Factores Asociados seleccionados, y su influencia en el desempeño y resultado de los estudiantes participantes del TERCE 2013. Por favor, considere:
+Los archivos CSV disponibles en esta carpeta corresponden a los resultados por país de Factores Asociados seleccionados, y su influencia en el desempeño y resultado de los estudiantes participantes del TERCE 2013, utilizados para su visualización en el portal de datos [llecesunesco.org](www.lleceunesco.org). Por favor, considere:
 
 
 **Sobre los niveles de desempeño** 
